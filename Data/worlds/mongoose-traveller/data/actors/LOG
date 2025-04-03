@@ -1,0 +1,21 @@
+2025/04/02-09:14:49.456269 7feec9bfa6c0 Recovering log #90
+2025/04/02-09:14:49.458795 7feec9bfa6c0 Delete type=0 #90
+2025/04/02-09:14:49.458820 7feec9bfa6c0 Delete type=3 #89
+2025/04/02-09:17:26.652230 7feebb3ff6c0 Level-0 table #94: started
+2025/04/02-09:17:26.652247 7feebb3ff6c0 Level-0 table #94: 0 bytes OK
+2025/04/02-09:17:26.653068 7feebb3ff6c0 Delete type=0 #92
+2025/04/02-09:17:26.655031 7feebb3ff6c0 Manual compaction at level-0 from '!actors!3A2gehr1qVQfztvx' @ 72057594037927935 : 1 .. '!actors.items!yL98fvuK6LMks8GL.pDjmezDUanaMmYUc' @ 0 : 0; will stop at '!actors.items!SQHKtzsJTlBXQR0c.xm0kMmNzgKmfxvZe' @ 4027 : 0
+2025/04/02-09:17:26.655039 7feebb3ff6c0 Compacting 1@0 + 0@1 files
+2025/04/02-09:17:26.657127 7feebb3ff6c0 Generated table #95@0: 18 keys, 19927 bytes
+2025/04/02-09:17:26.657148 7feebb3ff6c0 Compacted 1@0 + 0@1 files => 19927 bytes
+2025/04/02-09:17:26.658081 7feebb3ff6c0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/02-09:17:26.658177 7feebb3ff6c0 Delete type=2 #87
+2025/04/02-09:17:26.661305 7feebb3ff6c0 Manual compaction at level-0 from '!actors.items!SQHKtzsJTlBXQR0c.xm0kMmNzgKmfxvZe' @ 4027 : 0 .. '!actors.items!yL98fvuK6LMks8GL.pDjmezDUanaMmYUc' @ 0 : 0; will stop at (end)
+2025/04/02-09:17:26.662306 7feebb3ff6c0 Manual compaction at level-1 from '!actors!3A2gehr1qVQfztvx' @ 72057594037927935 : 1 .. '!actors.items!yL98fvuK6LMks8GL.pDjmezDUanaMmYUc' @ 0 : 0; will stop at '!actors.items!SQHKtzsJTlBXQR0c.xm0kMmNzgKmfxvZe' @ 4042 : 1
+2025/04/02-09:17:26.662311 7feebb3ff6c0 Compacting 1@1 + 1@2 files
+2025/04/02-09:17:26.666330 7feebb3ff6c0 Generated table #96@1: 103 keys, 119064 bytes
+2025/04/02-09:17:26.666340 7feebb3ff6c0 Compacted 1@1 + 1@2 files => 119064 bytes
+2025/04/02-09:17:26.667141 7feebb3ff6c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/02-09:17:26.667184 7feebb3ff6c0 Delete type=2 #95
+2025/04/02-09:17:26.667242 7feebb3ff6c0 Delete type=2 #83
+2025/04/02-09:17:26.669641 7feebb3ff6c0 Manual compaction at level-1 from '!actors.items!SQHKtzsJTlBXQR0c.xm0kMmNzgKmfxvZe' @ 4042 : 1 .. '!actors.items!yL98fvuK6LMks8GL.pDjmezDUanaMmYUc' @ 0 : 0; will stop at (end)

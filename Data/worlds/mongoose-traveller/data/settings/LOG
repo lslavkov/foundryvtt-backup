@@ -1,0 +1,26 @@
+2025/04/02-09:14:49.638934 7feec93f96c0 Recovering log #77
+2025/04/02-09:14:49.639153 7feec93f96c0 Level-0 table #79: started
+2025/04/02-09:14:49.640111 7feec93f96c0 Level-0 table #79: 837 bytes OK
+2025/04/02-09:14:49.642117 7feec93f96c0 Delete type=0 #77
+2025/04/02-09:14:49.642149 7feec93f96c0 Delete type=3 #75
+2025/04/02-09:17:26.676000 7feebb3ff6c0 Level-0 table #82: started
+2025/04/02-09:17:26.676839 7feebb3ff6c0 Level-0 table #82: 837 bytes OK
+2025/04/02-09:17:26.677737 7feebb3ff6c0 Delete type=0 #80
+2025/04/02-09:17:26.678804 7feebb3ff6c0 Manual compaction at level-0 from '!settings!1zx0xhmsFGPRlwTg' @ 72057594037927935 : 1 .. '!settings!uWxE9KUoR8z1SbsJ' @ 0 : 0; will stop at '!settings!ZWYlyl2A5SGtg39s' @ 55 : 1
+2025/04/02-09:17:26.678809 7feebb3ff6c0 Compacting 4@0 + 0@1 files
+2025/04/02-09:17:26.681032 7feebb3ff6c0 Generated table #83@0: 4 keys, 1006 bytes
+2025/04/02-09:17:26.681042 7feebb3ff6c0 Compacted 4@0 + 0@1 files => 1006 bytes
+2025/04/02-09:17:26.681843 7feebb3ff6c0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/02-09:17:26.681896 7feebb3ff6c0 Delete type=2 #79
+2025/04/02-09:17:26.681947 7feebb3ff6c0 Delete type=2 #76
+2025/04/02-09:17:26.681982 7feebb3ff6c0 Delete type=2 #73
+2025/04/02-09:17:26.682016 7feebb3ff6c0 Delete type=2 #82
+2025/04/02-09:17:26.682139 7feebb3ff6c0 Manual compaction at level-0 from '!settings!ZWYlyl2A5SGtg39s' @ 55 : 1 .. '!settings!uWxE9KUoR8z1SbsJ' @ 0 : 0; will stop at (end)
+2025/04/02-09:17:26.682165 7feebb3ff6c0 Manual compaction at level-1 from '!settings!1zx0xhmsFGPRlwTg' @ 72057594037927935 : 1 .. '!settings!uWxE9KUoR8z1SbsJ' @ 0 : 0; will stop at '!settings!ZWYlyl2A5SGtg39s' @ 55 : 1
+2025/04/02-09:17:26.682168 7feebb3ff6c0 Compacting 1@1 + 1@2 files
+2025/04/02-09:17:26.683094 7feebb3ff6c0 Generated table #84@1: 21 keys, 3066 bytes
+2025/04/02-09:17:26.683118 7feebb3ff6c0 Compacted 1@1 + 1@2 files => 3066 bytes
+2025/04/02-09:17:26.683881 7feebb3ff6c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/02-09:17:26.683920 7feebb3ff6c0 Delete type=2 #83
+2025/04/02-09:17:26.683962 7feebb3ff6c0 Delete type=2 #69
+2025/04/02-09:17:26.684008 7feebb3ff6c0 Manual compaction at level-1 from '!settings!ZWYlyl2A5SGtg39s' @ 55 : 1 .. '!settings!uWxE9KUoR8z1SbsJ' @ 0 : 0; will stop at (end)
